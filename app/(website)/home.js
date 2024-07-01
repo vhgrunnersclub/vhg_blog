@@ -18,7 +18,7 @@ export default function Post({ posts }) {
         <Container>
           <div className="mb-8" style={{ width: '100%'}}>
           <h1 className="text-3xl font-serif font-semibold mb-8" style={{ margin: '0' }}>
-            Portfolio projects
+            Newest Blogs
           </h1>
           </div>
           <div className="grid md:grid-cols-2 gap-10 mt-10">
@@ -40,7 +40,7 @@ export default function Post({ posts }) {
           </div>
           <div className="mt-16 mb-8" style={{ width: '100%'}}>
           <h1 className="text-3xl font-serif font-semibold mb-8" style={{ margin: '0' }}>
-            Blog and my thoughts
+            Sharing
           </h1>
           </div>
           <div className="grid mt-10 gap-10 md:grid-cols-1 lg:gap-10 ">
